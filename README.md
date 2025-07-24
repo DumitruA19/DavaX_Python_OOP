@@ -109,7 +109,9 @@ math_microservice/
 │   ├── vite.config.js
 │   └── package.json
 └── README.md
+```
 
+---
 
 ## ✅ Code Quality
 
@@ -117,3 +119,17 @@ math_microservice/
 - ✅ Modular structure: `routers/`, `models/`, `services/`
 - ✅ `async` functions and clean caching logic
 - ✅ OOP: reusable `CacheService`
+
+---
+
+## 🔍 UI Features (Frontend)
+
+- 3 interactive cards for each operation
+- Historical table
+- Live filtering
+- Individual deletion of results
+- Fully responsive, clean UI
+
+---
+
+
